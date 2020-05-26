@@ -1,0 +1,1 @@
+{"jobID":"17735c05-5cae-2d17-c00f-aa1f5898e261","spec":{"type":"policy","cause":{"Message":"","User":"Rob \u003crobert.fletcher@globalfreightsolutions.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:'1.4.*'"},"remove":{}}}},"result":null}
